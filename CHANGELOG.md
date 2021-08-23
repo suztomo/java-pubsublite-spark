@@ -1,5 +1,17 @@
 # Changelog
 
+### [0.3.2](https://www.github.com/googleapis/java-pubsublite-spark/compare/v0.3.1...v0.3.2) (2021-08-23)
+
+
+### Dependencies
+
+* update dependency com.google.api.grpc:proto-google-cloud-pubsublite-v1 to v1.0.3 ([#238](https://www.github.com/googleapis/java-pubsublite-spark/issues/238)) ([949b2c0](https://www.github.com/googleapis/java-pubsublite-spark/commit/949b2c0dc00344cd9fba9a7113e9ea11b511cf88))
+* update dependency com.google.api.grpc:proto-google-cloud-pubsublite-v1 to v1.0.4 ([#243](https://www.github.com/googleapis/java-pubsublite-spark/issues/243)) ([7645350](https://www.github.com/googleapis/java-pubsublite-spark/commit/7645350f6ef1ee64dc2bccb682b41cd2d2f364c7))
+* update dependency com.google.cloud:google-cloud-pubsublite to v1.0.3 ([#239](https://www.github.com/googleapis/java-pubsublite-spark/issues/239)) ([0713504](https://www.github.com/googleapis/java-pubsublite-spark/commit/0713504e523eefd44750af636622de4853a72771))
+* update dependency com.google.cloud:google-cloud-pubsublite to v1.0.4 ([#244](https://www.github.com/googleapis/java-pubsublite-spark/issues/244)) ([9ec097d](https://www.github.com/googleapis/java-pubsublite-spark/commit/9ec097daff7a7ef792e3a64a3e1f00c7b4582543))
+* update dependency com.google.cloud:google-cloud-pubsublite-parent to v1.0.3 ([#240](https://www.github.com/googleapis/java-pubsublite-spark/issues/240)) ([1756bd1](https://www.github.com/googleapis/java-pubsublite-spark/commit/1756bd1b75a0dff67781a6ab10fb614059784633))
+* update dependency com.google.cloud:google-cloud-pubsublite-parent to v1.0.4 ([#245](https://www.github.com/googleapis/java-pubsublite-spark/issues/245)) ([95ea402](https://www.github.com/googleapis/java-pubsublite-spark/commit/95ea402eacd09035ff0f94e76e0724149f8ee382))
+
 ### [0.3.1](https://www.github.com/googleapis/java-pubsublite-spark/compare/v0.3.0...v0.3.1) (2021-08-11)
 
 
